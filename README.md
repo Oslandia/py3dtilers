@@ -1,16 +1,10 @@
 # Py3DTilers: an open-source toolkit to create 3DTiles
 
-## :warning: Arrested development :warning:
+## :warning: Discontinued development :warning:
 
-Alas, starting on January 2025, the current Py3dTilers development team will move on to new projects. Py3dTilers will thus no longer be developed nor maintained.
-The **current repository owners are thus looking for a community** (a set of individuals, teams or corporations) that would be willing to adopt py3dTilers in order to pursue the development activity.
-This transition could take the form of adding new developers and transmitting the MAINTAINER role (at the repository level).
-But, as allowed by the [LICENSE](https://github.com/VCityTeam/py3dtilers/blob/master/LICENSE.md), the transmission could go as far as relinquishing the repository ownership to another responsible organization.
+Alas, starting on January 2025, the current Py3dTilers development team will move on to new projects. Py3dTilers will thus no longer receive new features. Since 2024, ongoing efforts have been made to merge py3dtilers into py3dtiles (the original communautary project). Oslandia has offered to maintain this repository while this work is ongoing. If you still need this tool, don't hesitate to [contact oslandia](mailto:infos@oslandia.com). If your use case is supported, please use the original [py3dtiles](https://gitlab.com/py3dtiles/py3dtiles).
 
-At this stage, some contacts were made with some public or private organizations (currently using and/or contributing to py3dTilers). If the future of py3dTilers interests you, and you would willing to engage some resources to take the lead on 
-maintaining/developing py3dTilers, please provide [in this issue](https://github.com/VCityTeam/py3dtilers/issues/196) some sketchy declaration of intention and possibly a coarse roadmap.
-
-Deciding the actual form of transmission will be based on the result of the public discussion happening [in this issue](https://github.com/VCityTeam/py3dtilers/issues/196).
+Many thanks to the [Liris](https://liris.cnrs.fr/) and [VCityTeam](https://vcity.liris.city/py3dtilers/) for their research and development effort that have contributed so much to the 3dtiles open-source ecosystem.
 
 ---
 
