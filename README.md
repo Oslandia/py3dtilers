@@ -4,7 +4,7 @@
 
 Alas, starting on January 2025, the current Py3dTilers development team will move on to new projects. Py3dTilers will thus no longer receive new features. Since 2024, ongoing efforts have been made to merge py3dtilers into py3dtiles (the original communautary project). Oslandia has offered to maintain this repository while this work is ongoing. If you still need this tool, don't hesitate to [contact oslandia](mailto:infos@oslandia.com). If your use case is supported, please use the original [py3dtiles](https://gitlab.com/py3dtiles/py3dtiles).
 
-Many thanks to the [Liris](https://liris.cnrs.fr/) and [VCityTeam](https://vcity.liris.city/py3dtilers/) for their research and development effort that have contributed so much to the 3dtiles open-source ecosystem.
+Many thanks to the [Liris](https://liris.cnrs.fr/) and [VCityTeam](https://vcity.liris.city/py3dtilers/) for their research and development effort that have contributed significantly to the 3dtiles open-source ecosystem.
 
 ---
 
